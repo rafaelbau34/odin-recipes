@@ -1,37 +1,43 @@
 * {
-    font-family: "Times New Roman", Arial, Helvetica, sans-serif
+  font-family: "Times New Roman", Arial, Helvetica, sans-serif;
 }
 
 h1 {
-    color: blueviolet;
-    background-color: pink;
-    font-size: 50px;
+  color: blueviolet;
+  background-color: pink;
+  font-size: 50px;
 }
 
 a {
-    color: black;
-    font-size: 20px;
+  color: black;
+  font-size: 20px;
 }
 
 .one {
-    color: rgb(72, 255, 0);
+  color: rgb(72, 255, 0);
 }
 
 .solo {
-    color: rgb(255, 0, 0);
+  color: rgb(255, 0, 0);
 }
 
 h2,
 p,
 ol,
 ul {
-    font-size: 30px;
+  font-size: 30px;
 }
 
 .center-container {
-    text-align: center;
+  text-align: center;
 }
 
 img {
-    display: inline-block;
+  display: inline-block;
+}
+
+div.card {
+  width: 300px;
+  background-color: azure;
+  margin: 16px;
 }
